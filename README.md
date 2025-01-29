@@ -1,9 +1,5 @@
 # -Salesforce-Data-Cloud-Consultant-Dumps-Pdf
 
-Here's a detailed GitHub article for the **Salesforce Data Cloud Consultant** exam with headings and emojis.  
-
----
-
 # 🚀 Salesforce Data Cloud Consultant Dumps – Your Key to Success!  
 
 ## 🎯 Introduction  
